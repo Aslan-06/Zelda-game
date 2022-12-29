@@ -1,4 +1,5 @@
-# Zelda game (Développement en 1 mois)
+# Zelda game, projet de 1ère année de DUT Informatique (S2) (Développement d'un
+mois)
 
 Le projet est réalisé en binôme. Il comprend la conception, création et le développement d'un jeu du type Zelda en 2D, en utilisant le langage de programmation Java et son framework JavaFX, en respectant l'architecture MVC.
 Nous avons divisé la Map en un quadrillage, pour former des tuiles, c'est-à-dire des carrés, pour simplifier la gestion du terrain, en utilisant simplement un tableau qui sera alimenté par un fichier externe.
