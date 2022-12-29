@@ -6,7 +6,7 @@
  * 
  * Rayane BOUFENGHOUR
  * Aslan VICHEGOUROV
- **/
+ */
 
 package application;
 
