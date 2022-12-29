@@ -6,5 +6,5 @@ Le personnage peut bouger, ramasser des accessoires et des armes, attaquer des e
 nager dans l'eau pendant un certain temps, et se nourrir avec des fruits des arbres pour gagner des points de vie.
 Le chemin des ennemies qui marchent, est initialisé lors de son apparition,
 le chemin est initialisé en tel sorte que l'ennemi suivra le point où le joueur se positionnais lors de l'apparition de cet ennemi. 
-Une fois qu'il arrive à cet point de "destination", il revient à son point d'apparition et ainsi de suite. Le chemin se trouve ...
+Une fois qu'il arrive à cet point de "destination", il revient à son point d'apparition et ainsi de suite.
 
